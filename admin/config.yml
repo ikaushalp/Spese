@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: quantumx-dev/Spese
+  repo: mrkp/Spese
 
 media_folder: "assets/uploads"
 
