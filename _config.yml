@@ -7,7 +7,7 @@ facts:
   customers: 10
 keywords: kaushal, patel,  portfolio, website, netlify, jekyll
 author:
-  resumelink: https://google.com
+  resumelink: /assets/uploads/resume.png
   name: Kaushal Patel
   cvlink: https://google.com
   phone: +91 63550 75156
