@@ -1,24 +1,18 @@
 service:
   - order: "01"
     name: Web Service
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore exercitationem."
-
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore
+      exercitationem.
   - order: "02"
-    name: Web Design
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore exercitationem."
-
-  - order: "03"
     name: Web Development
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore exercitationem."
-
+    description: Full stack development which includes front-end and back-end of
+      website development.
+  - order: "03"
+    name: UX & UI Design
+    description: I have the ability to create an amazing Dashboard User Interface
+      with User Experience for your website or to re-create your existing
+      web/app into a modernized one.
   - order: "04"
-    name: Graphics Service
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore exercitationem."
-
-  - order: "05"
-    name: Design Service
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore exercitationem."
-
-  - order: "06"
-    name: Dev Service
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore exercitationem."
+    name: Photography
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore
+      exercitationem.
