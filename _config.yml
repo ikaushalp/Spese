@@ -2,9 +2,9 @@ contactform:
   description: Write your Message Here
   emailconfig: abc
 facts:
-  experience: 5
-  projects: 25
-  customers: 100
+  experience: 3
+  projects: 5
+  customers: 10
 keywords: kaushal, patel,  portfolio, website, netlify, jekyll
 author:
   resumelink: https://google.com
