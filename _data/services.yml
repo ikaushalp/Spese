@@ -1,12 +1,11 @@
 service:
-  - order: "01"
-    name: Web Service
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore
-      exercitationem.
-  - order: "02"
+  - order: 1
     name: Web Development
     description: Full stack development which includes front-end and back-end of
       website development.
+  - order: 2
+    name: Python Development
+    description: I will develop python django webapps with javascript and database
   - order: "03"
     name: UX & UI Design
     description: I have the ability to create an amazing Dashboard User Interface
@@ -14,5 +13,5 @@ service:
       web/app into a modernized one.
   - order: "04"
     name: Photography
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore
-      exercitationem.
+    description: |
+      I will do any kind of video editing, professionally and super fast.
