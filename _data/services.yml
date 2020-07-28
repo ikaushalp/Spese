@@ -6,12 +6,12 @@ service:
   - order: 2
     name: Python Development
     description: I will develop python django webapps with javascript and database
-  - order: "03"
+  - order: 3
     name: UX & UI Design
     description: I have the ability to create an amazing Dashboard User Interface
       with User Experience for your website or to re-create your existing
       web/app into a modernized one.
-  - order: "04"
+  - order: 4
     name: Photography
     description: |
       I will do any kind of video editing, professionally and super fast.
