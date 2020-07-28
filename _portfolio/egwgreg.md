@@ -1,5 +1,5 @@
 ---
-title: Spece
+title: Spece Portfolio Theme
 client: Open Source
 postdate: 28 Jul 2020
 tags:
