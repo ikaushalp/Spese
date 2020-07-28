@@ -1,6 +1,4 @@
 filters:
-  - name: Design
   - name: Code
-  - name: Video
+  - name: Design
   - name: Template
-  - name: Drawings
