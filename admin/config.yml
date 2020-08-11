@@ -123,10 +123,6 @@ collections:
             name: "social"
             widget: "object"
             fields:
-            
-              - label: "Facebook"
-                name: "facebook"
-                widget: "string"
 
               - label: "GitHub"
                 name: "github"
